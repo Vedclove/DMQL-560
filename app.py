@@ -3,7 +3,7 @@ import psycopg2
 import pandas as pd
 
 # Title
-st.title("Safe SQL Query Runner for Neon Database 🚀")
+st.title("CSE 560 - Bank Database - Team 12 🚀")
 
 # Database connection parameters
 db_config = {
